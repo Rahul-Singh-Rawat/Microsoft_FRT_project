@@ -7,7 +7,7 @@ Developed project link - https://rahul-mfrt-project.azurewebsites.net/
 
 # Industry Name : Health
 
-#Project Title -> 
+# Project Title -> 
 Hospital website using Microsoft Azure web apps
 
 # Problem Statement/Opportunity -> 
